@@ -10,8 +10,8 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		string DBpassword = "Admin@1234";
 
-		system.out.println("hello")
-		system.out.println("World")
+		system.out.println("hello");
+		system.out.println("World");
 	}
 
 }
